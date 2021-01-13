@@ -10,7 +10,9 @@
 
 **Talking about Personal Stuffs:**
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<!-- <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
+<img width="55%" align="right" alt="Github" src="https://abhedyak.github.io/images/back-end-developer.svg" />
+
 
 - 💻 I’m currently working as a Android Developer
 - 🌱 I’m currently learning different new technology
@@ -25,11 +27,9 @@
 
 **Languages and Tools:** 
 
-<!-- Your github readme stats
-You can use this api: https://github.com/anuraghazra/github-readme-stats
--->
+
 <p>
-  <a href="https://github.com/onimur/handle-path-oz">
+  <a href="https://github.com/puskal-khadka">
     <img width="55%" align="right" alt="Puskals's github stats" src="https://github-readme-stats.vercel.app/api?username=puskal-khadka&show_icons=true&hide_border=true" />
   </a>
 
