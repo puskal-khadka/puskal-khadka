@@ -1,4 +1,4 @@
-## Hey 👋, I'm Puskal Khadka, a Developer 🚀 from Nepal.
+## Hey, I'm Puskal Khadka, a Developer 🚀 from Nepal.
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/puskal-khadka)
 [![Website](https://img.shields.io/badge/-Website-37BC61?style=flat&logo=JSON&logoColor=white)](https://www.puskalkhadka.com.np)
