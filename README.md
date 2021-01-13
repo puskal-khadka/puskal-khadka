@@ -10,7 +10,7 @@
 
 **Talking about Personal Stuffs:**
 
- <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> 
+ <img width="55%" align="right" alt="Github" src="https://recruit-c7ff.kxcdn.com/recruit/wp-content/uploads/2019/09/how-to-hire-a-java-developer.svg" /> 
 
 
 - 💻 I’m currently working as a Android Developer
