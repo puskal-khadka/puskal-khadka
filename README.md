@@ -12,12 +12,16 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 💻 I’m currently working as a Android Developer;
-- 🌱 I’m currently learning different Stuff on Android;
-- 👯 I'm looking to Collabrate with Other developers;
-- ⚡️ Goals: Contriute more to Open Source Project;
-- 💬 Ask me about anything, I am happy to help;
-- 📫 wanna contact me: puskal.khadka.18@gmail.com;
+- 💻 I’m currently working as a Android Developer
+- 🌱 I’m currently learning different Stuff on Android
+- 👯 I'm looking to Collabrate with Other developers
+- ⚡️ Goals: Contriute more to Open Source Project
+- 💬 Ask me about anything, I am happy to help
+- 📫 wanna contact me: puskal.khadka.18@gmail.com
+
+&nbsp;
+
+
 
 **Languages and Tools:** 
 
