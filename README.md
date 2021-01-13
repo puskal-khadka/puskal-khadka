@@ -10,7 +10,7 @@
 &nbsp;
 
 **Talking about Personal Stuffs:**
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/Puskal12345/puskal-git-img/f68add998bee997de2a17013ae6c64a25ef9a24e/image_1.svg" />
 
 
 
