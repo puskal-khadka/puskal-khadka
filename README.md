@@ -1,5 +1,4 @@
 ## Hey, I'm Puskal Khadka, a Developer 🚀 from Nepal.
- <img width="55%" align="right" alt="Github" src="https://abhedyak.github.io/images/back-end-developer.svg" /> 
 
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/puskal-khadka)
@@ -11,6 +10,7 @@
 &nbsp;
 
 **Talking about Personal Stuffs:**
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
 
