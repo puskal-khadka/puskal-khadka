@@ -1,4 +1,6 @@
 ## Hey, I'm Puskal Khadka, a Developer 🚀 from Nepal.
+ <img width="55%" align="right" alt="Github" src="https://abhedyak.github.io/images/back-end-developer.svg" /> 
+
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/puskal-khadka)
 [![Website](https://img.shields.io/badge/-Website-37BC61?style=flat&logo=JSON&logoColor=white)](https://www.puskalkhadka.com.np)
@@ -10,7 +12,6 @@
 
 **Talking about Personal Stuffs:**
 
- <img width="55%" align="right" alt="Github" src="https://recruit-c7ff.kxcdn.com/recruit/wp-content/uploads/2019/09/how-to-hire-a-java-developer.svg" /> 
 
 
 - 💻 I’m currently working as a Android Developer
