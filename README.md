@@ -1,4 +1,4 @@
-## Hi, I'm Puskal Khadka, a Developer 🚀 from Nepal.
+## Hey 👋, I'm Puskal Khadka, a Developer 🚀 from Nepal.
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/puskal-khadka)
 [![Website](https://img.shields.io/badge/-Website-37BC61?style=flat&logo=JSON&logoColor=white)](https://www.puskalkhadka.com.np)
@@ -13,7 +13,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 💻 I’m currently working as a Android Developer
-- 🌱 I’m currently learning different Stuff on Android
+- 🌱 I’m currently learning different new technology
 - 👯 I'm looking to Collabrate with Other developers
 - ⚡️ Goals: Contriute more to Open Source Project
 - 💬 Ask me about anything, I am happy to help
